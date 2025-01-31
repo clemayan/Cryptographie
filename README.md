@@ -8,7 +8,7 @@ Ce projet a été réalisé en mai 2022 dans le cadre de la matière NSI au lyc�
 ## Technologies utilisées 🛠
 Python3 : 
 
-## Auteurs 👥
+## Auteure 👩‍💻
 Mazuet Maya
 
 ## 📜 Licence  
